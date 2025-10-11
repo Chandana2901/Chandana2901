@@ -23,9 +23,11 @@ Full-Stack Developer with 1.9 years of backend wizardry using Python (FastAPI/Fl
 
 ## 💼 Experience
 
-### Persistent Systems Ltd.  
+### Persistent Systems Ltd.
+#### Senior Software Engineer (Full Stack Developer)
+_Sept 2025 - Present_
 #### Software Engineer (Full Stack Developer)  
-_Sept 2023 – Present_
+_Sept 2023 – August 2025_
 
 - 🛠️ Collaborated with product owners, making features happen and zapping bugs for seamless user experiences.
 - 🚀 Designed & shipped 5+ new features (FastAPI, MongoDB, ReactJS)—turning user feedback into happy faces!
