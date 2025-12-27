@@ -8,7 +8,7 @@
 
 ## 📝 Summary
 
-Full-Stack Developer with 1.9 years of backend wizardry using Python (FastAPI/Flask) and about a year crafting interactive UIs with ReactJS. I love turning caffeine into code, building & maintaining web apps, integrating RESTful APIs, and seeing projects through from brainstorm to deployment. Whether it’s wrangling Git, setting up CI/CD, or thriving in Agile chaos—count me in!
+Full-Stack Developer with 2.3 years of backend wizardry using Python (FastAPI/Flask) and about a year crafting interactive UIs with ReactJS. I love turning caffeine into code, building & maintaining web apps, integrating RESTful APIs, and seeing projects through from brainstorm to deployment. Whether it’s wrangling Git, setting up CI/CD, or thriving in Agile chaos—count me in!
 
 ---
 
